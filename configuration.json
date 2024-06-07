@@ -1,10 +1,16 @@
 {
-  "Datas": [
-    {
-      "Id": "",
-      "Day": 5,
-      "StartTime": "",
-      "FinishTime": ""
-    }
-  ]
+  "ConnectionConfig": {
+    "Type":"https",
+    "Ip":"chechers.arcanegiveaways.ru"
+  },
+  "Config": {
+    "Datas": [
+      {
+        "Id": "",
+        "Day": 5,
+        "StartTime": "",
+        "FinishTime": ""
+      }
+    ]
+  }
 }
