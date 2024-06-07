@@ -6,10 +6,10 @@
   "Config": {
     "Datas": [
       {
-        "Id": "",
+        "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
         "Day": 5,
-        "StartTime": "",
-        "FinishTime": "",
+        "StartTime": "04:00:00",
+        "FinishTime": "11:00:00",
         "ShowLeaderboard": false
       }
     ]
