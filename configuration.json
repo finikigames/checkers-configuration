@@ -18,13 +18,6 @@
         "StartTime": "00:00:00",
         "FinishTime": "23:59:00",
         "ShowLeaderboard": true
-      },
-      {
-        "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
-        "Day": 6,
-        "StartTime": "00:00:00",
-        "FinishTime": "09:00:00",
-        "ShowLeaderboard": true
       }
     ]
   }
