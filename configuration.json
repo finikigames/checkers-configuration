@@ -7,16 +7,20 @@
     "Datas": [
       {
         "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
-        "Day": 5,
-        "StartTime": "15:00:00",
-        "FinishTime": "19:00:00",
+        "StartTime": 1721934000,
+        "FinishTime": 1722020400,
         "ShowLeaderboard": false
       },
       {
         "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
-        "Day": 6,
-        "StartTime": "00:00:00",
-        "FinishTime": "09:00:00",
+        "StartTime": 1721952000,
+        "FinishTime": 1722106800,
+        "ShowLeaderboard": true
+      }
+      {
+        "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
+        "StartTime": 1722603600,
+        "FinishTime": 1722614400,
         "ShowLeaderboard": true
       }
     ]
