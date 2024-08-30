@@ -1,7 +1,7 @@
 {
   "ConnectionConfig": {
     "Type":"https",
-    "Ip":"server.arcanegiveaways.ru"
+    "Ip":"main.arcanegiveaways.ru"
   },
   "Config": {
     "Datas": [
