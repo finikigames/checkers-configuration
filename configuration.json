@@ -5,12 +5,7 @@
   },
   "Config": {
     "Datas": [
-      {
-        "Id": "4ec4f126-3f9d-11e7-84ef-b7c182b36521",
-        "StartTime": 1727017200,
-        "FinishTime": 1734620400,
-        "ShowLeaderboard": true
-      }
+      
     ]
   }
 }
